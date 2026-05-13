@@ -255,7 +255,7 @@ This project is developed for academic and research purposes .
 ---
 
 <div align="center">
-
+GitHub Repo - https://github.com/Sahanjith-i/R26-IT-119.git
 
 ### 🚀 Building Smart Safety Solutions for Sri Lankan Gem Miners 🚀
 
